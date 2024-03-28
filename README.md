@@ -74,3 +74,7 @@ int sum(int x, int y) {
 [네이버](https://www.naver.com "클릭하면 네이버로 이동합니다.")
 
 <a href="https://www.naver.com" target="_blank">새창에서 열기</a>
+
+## 이미지 업로드 : 해당 레파지토리에 이미지를 업로드 한 뒤 ![설명메시지](./파일명)
+
+![비오는날](.photo,jpg)
