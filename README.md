@@ -65,12 +65,12 @@ int sum(int x, int y) {
 
 2. [텍스트](주소) : 링크 텍스트만 나타나고 텍스트를 클릭하면 주소로 이동
 
-3. [텍스트](주소,"부가설명") : 링크 텍스트 위에 커서를 올리면 부가 설명이 말풍성으로 표시됨
+3. [텍스트](주소 "부가설명") : 링크 텍스트 위에 커서를 올리면 부가 설명이 말풍성으로 표시됨
 
 <https://www.naver.com>
 
 [네이버](https://www.naver.com)
 
-[네이버](https://www.naver.com, "클릭하면 네이버로 이동합니다.")
+[네이버](https://www.naver.com "클릭하면 네이버로 이동합니다.")
 
 <a href="https://www.naver.com" target="_blank">새창에서 열기</a>
